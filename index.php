@@ -3,10 +3,10 @@
     <title>Web App Sederhana</title>
 </head> 
     <form action="hello.php" method="POST">
-	Nama : <action type="text" name="nama/>
+	Nama : <input type="text" name="nama"/>
 	<br>
-	Email : <input> type="email" name="email/>
+	Email : <input type="email" name="email"/>
 	<br>
-	<input typ="submit" value="Enter"/>
+	<input type="submit" value="Enter"/>
     </form>
 </html>
