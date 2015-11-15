@@ -1,3 +1,3 @@
 <?php
-	echo "azhary ganteng";
+	echo "Abu ganteng";
 ?>
